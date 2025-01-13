@@ -6,16 +6,17 @@ This is a **clone of WhatsApp's UI**, built with **Flutter**.
 
 ## Screenshots
 ### Home Screen                                                                                       
-![Screenshot (147)](https://github.com/user-attachments/assets/35cd27bf-b03b-4fbb-8096-b0340b80a711)
+ ![Screenshot__147_-removebg-preview](https://github.com/user-attachments/assets/9e29f70c-f632-4ca3-aa6a-6b60bd536044)
+ 
 
 ### Update Screen(status)
-![Screenshot (148)](https://github.com/user-attachments/assets/57050a79-9bbf-44dc-ae2f-4d243e59e1bb)
+![Screenshot__148_-removebg-preview](https://github.com/user-attachments/assets/abeb4dfd-a956-48c2-a76e-52d723dac0d9)
         
-###Communities Screen
+### Communities Screen
 ![Screenshot__149_-removebg-preview](https://github.com/user-attachments/assets/97edcac1-e833-4c2a-9286-7567d4761659)
 
 ### Calls Screen
-![Screenshot (150)](https://github.com/user-attachments/assets/339353fc-992a-41f4-a4f8-9e8052e87a38)
+![Screenshot__150_-removebg-preview](https://github.com/user-attachments/assets/fd762a32-bab2-458b-b6b0-f66367123246)
 
 
 ### Things that are added 🛠️:
