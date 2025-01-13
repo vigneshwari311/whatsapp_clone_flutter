@@ -12,7 +12,7 @@ This is a **clone of WhatsApp's UI**, built with **Flutter**.
 ![Screenshot (148)](https://github.com/user-attachments/assets/57050a79-9bbf-44dc-ae2f-4d243e59e1bb)
         
 ###Communities Screen
-![Screenshot (149)](https://github.com/user-attachments/assets/e693a5fb-090c-498a-9816-d1856f254d65)
+![Screenshot__149_-removebg-preview](https://github.com/user-attachments/assets/97edcac1-e833-4c2a-9286-7567d4761659)
 
 ### Calls Screen
 ![Screenshot (150)](https://github.com/user-attachments/assets/339353fc-992a-41f4-a4f8-9e8052e87a38)
