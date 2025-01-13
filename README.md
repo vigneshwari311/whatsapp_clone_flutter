@@ -5,6 +5,8 @@ This is a **clone of WhatsApp's UI**, built with **Flutter**.
 **Note:** This project reflects the **WhatsApp version as of December 2024**
 
 ## Screenshots
+### Home Screen
+![Home Screen](https://github.com/vigneshwari311/whatsapp_clone_flutter/blob/56735c2a1293a7bebeffaa53d55f53c3fc6dcd41/Screenshot_1736706723-portrait.png)
 
 
 ### Things that are added 🛠️:
