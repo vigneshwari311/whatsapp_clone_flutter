@@ -1,20 +1,28 @@
-<<<<<<< HEAD
-# whatsapp_clone_flutter
-=======
-# whatsapp_clone
+# **WhatsApp UI Clone - Flutter Edition 🚀**
 
-A new Flutter project.
+This is a **clone of WhatsApp's UI**, built with **Flutter**.
 
-## Getting Started
+**Note:** This project reflects the **WhatsApp version as of December 2024**
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Things that are added 🛠️:
+ - Chat page
+ - Update page
+ - Status page
+ - Calls page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 1d94d29 (added license and completed ui)
+### 🚀 Future Improvements :
+ - Enable group chat UI.
+ - Integrate basic backend for chat functionality.
+ - To enable all the widgets to be functional.
+ - 
+## 🤝 Contributing
+Contributions are welcome! Feel free to:
+- Fork the repo.
+- Create a new branch.
+- Submit a pull request.
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vigneshwari311/whatsapp_clone_flutter/blob/main/LICENSE) file for details.
